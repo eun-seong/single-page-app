@@ -1,0 +1,27 @@
+{
+  "name": "single-page-app",
+  "version": "1.0.0",
+  "description": "vanilla.js로 만드는 SPA",
+  "main": "front/static/js/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eun-seong/single-page-app.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eun-seong/single-page-app/issues"
+  },
+  "homepage": "https://github.com/eun-seong/single-page-app#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12"
+  },
+  "devDependencies": {
+    "webpack": "^5.44.0",
+    "webpack-cli": "^4.7.2"
+  }
+}
